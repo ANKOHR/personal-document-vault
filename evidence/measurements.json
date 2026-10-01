@@ -1,0 +1,15 @@
+{
+  "_label": "SYNTHETIC INPUT BENCHMARK: timings measured locally, no real-use or savings claims.",
+  "byte_identical_repeat": true,
+  "exact_case_sets_match": true,
+  "exact_figures_match": true,
+  "false_negatives": 0,
+  "false_positives": 0,
+  "full_demo_seconds_measured": 0.7560317000024952,
+  "measured_on": "2026-10-01",
+  "records": 200,
+  "report_seconds_measured": 0.23228810000000522,
+  "savings": "Unmeasured; no baseline and no savings claimed.",
+  "synthetic": true,
+  "timing_scope": "Installed pdv process startup, fixtures, run, Markdown report; JSON and repeat checks excluded."
+}
